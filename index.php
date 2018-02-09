@@ -1,5 +1,5 @@
 <?php 
 
-Ceci est une erreur;
+echo "pas d'erreurs";
 
 
